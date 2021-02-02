@@ -6,8 +6,8 @@
 * Shane Cooney        stc189      stc189@msstate.edu
 ## Programming Languages
 
-FILL
+JavaScript, CSS, PHP, HTML, SQL
 
 ## Project Description
 
-FILL
+A social media application that resembles Twitter.
