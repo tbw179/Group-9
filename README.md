@@ -4,10 +4,13 @@
 
 * Caleb Dawson        cdd370      calebdawsondev@gmail.com
 * Shane Cooney        stc189      stc189@msstate.edu
-## Programming Languages
+* Ashim Paudel        ap2737      ashimpaudel5io@gmail.com
 
-FILL
+## Programming Languages
+* Javascript, HTML, CSS
+
+
 
 ## Project Description
 
-FILL
+Create a close copy of a twitter.
