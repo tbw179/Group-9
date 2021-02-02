@@ -1,3 +1,13 @@
 # Group-9
 
-**fill**
+## Group Memebers
+
+Caleb Dawson        cdd370      calebdawsondev@gmail.com
+
+## Programming Languages
+
+FILL
+
+## Project Description
+
+FILL
