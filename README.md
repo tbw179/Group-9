@@ -7,10 +7,7 @@
 * Ashim Paudel        ap2737      ashimpaudel5io@gmail.com
 
 ## Programming Languages
-* Javascript, HTML, CSS
-
-
+JavaScript, CSS, PHP, HTML, SQL
 
 ## Project Description
-
-Create a close copy of a twitter.
+A social media application that resembles Twitter.
