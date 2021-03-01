@@ -11,7 +11,7 @@
 * JavaScript
 * CSS
 * HTML
-* PHP
+* PYTHON
 
 ## Project Description
 A social media application that resembles Twitter.
