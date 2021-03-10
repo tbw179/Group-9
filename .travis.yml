@@ -4,14 +4,10 @@ language: php
 php:
   # using major version aliases
   
-  #aliased to 8.0.3
-  - 8
   #aliased to 7.4.16
   - 7.4
   #aliased to 7.3.27
   - 7.3
-  # aliased to a recent hhvm version
-  - hhvm
   
 env:
   - DB=mysql
