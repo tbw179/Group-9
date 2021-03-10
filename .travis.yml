@@ -2,7 +2,5 @@ language: php
 php:
   - "7.0"
 
-before_script:
-  - chmod +x ./mysite/PHP/scripts.php
- script: ./mysite/PHP/scripts.php
-install: php mysite/PHP/scripts.php
+before_install: cd mysite
+install: php PHP/scripts.php
