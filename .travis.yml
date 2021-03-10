@@ -4,3 +4,4 @@ php:
 
 before_install: cd mysite
 install: php PHP/scripts.php
+script: PHP/scripts.php
