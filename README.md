@@ -8,10 +8,12 @@
 * Sabindra Shrestha   ss4577      ss4577@msstate.edu
 ## Technologies
 
+
 * HTML
 * CSS
 * PHP
 * SQL
+
 
 ## Project Description
 A social media application that resembles Twitter.
