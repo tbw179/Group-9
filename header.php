@@ -39,17 +39,20 @@ $username = $_SESSION["user_login"];
     <div class="header">
         <div class="headerWrapper">
           <div class="headerObject">
-            <a href="#" class="headerLink" >Group 9 </a>
+            <a href="#">Group 9 </a>
+          </div>
+          <div class="headerSearch">
+            <form action="search.php" method="GET" id="search">
+              <input type="text" name="q" size="60" placeholder="Search ..."/>
+            </form>
           </div>
 
           <?php
           if (isset($_SESSION["user_login"])) {
           echo '
           <div class="headerObject">
-            <a href="'.$username.'" class="headerLink" >Profile</a>
-          </div>
-          <div class="headerObject">
-            <a href="logout.php" class="headerLink" >Logout</a>
+            <a href="'.$username.'">Profile</a>
+            <a href="logout.php">Logout</a>
           </div>
           ';
           }
@@ -57,20 +60,13 @@ $username = $_SESSION["user_login"];
           {
             echo '
             <div class="headerObject">
-              <a href="index.php" class="headerLink" >Create Account </a>
-            </div>
-            <div class="headerObject">
-              <a href="index.php" class="headerLink" >Login </a>
+              <a href="index.php">Create Account </a>
+              <a href="index.php">Login </a>
             </div>
             ';
           }
           ?>
 
-          <div class="headerSearch">
-            <form action="search.php" method="GET" id="search">
-              <input type="text" name="q" size="60" placeholder="Search ..."/>
-            </form>
-          </div>
         </div>
       </div>
     </div>

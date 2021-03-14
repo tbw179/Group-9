@@ -24,16 +24,21 @@
     padding-bottom: 0px;
 }
 
-.headerObject {
-    background-color: #00B9ED;
-    width: 125px;
-}
-
 .headerSearch {
     background-color: #00B9ED;
     position: absolute;
     top: 13px;
     margin-left: 135px;
+}
+
+.headerObject {
+    background-color: #00B9ED;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 40px;
+    padding-top: 20px;
+    margin-right: 4%;
 }
 
 .headerObject a {
