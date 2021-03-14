@@ -1,6 +1,6 @@
 <?php
-include ("./mysite/PHP/connect.php");
 session_start();
+include ("connect.php");
 if (!isset($_SESSION["user_login"])) {
 }
 else {
@@ -12,7 +12,7 @@ else {
 <html>
   <head>
     <title>Group 9</title>
-    <link rel="stylesheet" type="text/css" href="./mysite/CSS/style.css"/>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
   </head>
   <body>
     <div class="header">
