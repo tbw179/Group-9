@@ -24,7 +24,7 @@
     padding-bottom: 0px;
 }
 
-.headerLogo {
+.headerObject {
     background-color: #00B9ED;
     width: 125px;
 }
@@ -36,17 +36,7 @@
     margin-left: 135px;
 }
 
-.headerMenu {
-    background-color: #00B9ED;
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    height: 40px;
-    padding-top: 20px;
-    margin-right: 4%;
-}
-
-.headerMenu a {
+.headerObject a {
     color: #FFFFFF;
     text-decoration: none;
     font-size: 16px;
@@ -57,7 +47,7 @@
     padding-right: 10px;
 }
 
-.headerMenu a:hover {
+.headerObject a:hover {
     background-color: #0b87aa;
 }
 
