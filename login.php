@@ -11,7 +11,7 @@ if (isset($_POST["user_login"]) && isset($_POST["password_login"])) {
              $un = $row["username"];
 	    }
 		$_SESSION["user_login"] = $user_login;
-        header("location: index.php");
+        header("location: home.php");
         exit("<meta http-equiv=\"refresh\" content=\"0\">");
 	} else {
 		echo 'That information is incorrect, try again';
