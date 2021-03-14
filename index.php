@@ -4,7 +4,6 @@ include ("./mysite/PHP/register.php");
 include ("./mysite/PHP/login.php");
 ?>
 
-
     <div class="tableWrapper">
       <table>
         <tr>
