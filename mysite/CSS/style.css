@@ -1,1 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: #eff5f9;
+}
 
+.header {
+    background-color: #00B9ED;
+    height: 60px;
+    border-bottom: 0px;
+    padding-left: auto;
+    padding-right: auto;
+    width: 100%;
+}
+
+.headerWrapper {
+    background-color: #00B9ED;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.headerLogo {
+    background-color: #00B9ED;
+    width: 125px;
+}
+
+.headerSearch {
+    background-color: #00B9ED;
+    position: absolute;
+    top: 13px;
+    margin-left: 135px;
+}
