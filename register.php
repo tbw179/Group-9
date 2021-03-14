@@ -39,4 +39,3 @@ else {
 echo "Username already taken.";
 }
 }
-?>
