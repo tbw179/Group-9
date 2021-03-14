@@ -2,7 +2,7 @@
 $host="localhost";
 $username="id16376105_admin";
 $password='$SQ6[K-R5)}Qu-nY';
-$dbname="id16376105_users";
+$dbname="id16376105_main";
 
 $conn=mysqli_connect($host, $username, $password, $dbname);
 if(mysqli_connect_errno())
